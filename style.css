@@ -1,0 +1,19 @@
+
+body { background-image: url(görsel.png);
+    background-repeat: repeat
+    ;background-position: center center;
+    background-size: large;
+    background-attachment:scroll;
+
+}
+h1 { color: darkblue;
+    background-position: center top ;
+}
+
+p { font-style: italic; color: oldlace;
+
+    font-size-adjust: none;
+
+
+
+}
